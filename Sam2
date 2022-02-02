@@ -1,2 +1,6 @@
 This is not empty file.
+<<<<<<< HEAD
 Modifying the file in the master branch.
+=======
+Switched to bugfix1 branch and making changes to the file present in master branch.
+>>>>>>> bugfix4
